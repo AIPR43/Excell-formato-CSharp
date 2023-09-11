@@ -1,0 +1,10 @@
+C:\Users\venta\source\repos\FormatoExcell1\FormatoExcell1\bin\Debug\FormatoExcell1.exe.config
+C:\Users\venta\source\repos\FormatoExcell1\FormatoExcell1\bin\Debug\FormatoExcell1.exe
+C:\Users\venta\source\repos\FormatoExcell1\FormatoExcell1\bin\Debug\FormatoExcell1.pdb
+C:\Users\venta\source\repos\FormatoExcell1\FormatoExcell1\obj\Debug\FormatoExcell1.csproj.AssemblyReference.cache
+C:\Users\venta\source\repos\FormatoExcell1\FormatoExcell1\obj\Debug\FormatoExcell1.Form1.resources
+C:\Users\venta\source\repos\FormatoExcell1\FormatoExcell1\obj\Debug\FormatoExcell1.Properties.Resources.resources
+C:\Users\venta\source\repos\FormatoExcell1\FormatoExcell1\obj\Debug\FormatoExcell1.csproj.GenerateResource.cache
+C:\Users\venta\source\repos\FormatoExcell1\FormatoExcell1\obj\Debug\FormatoExcell1.csproj.CoreCompileInputs.cache
+C:\Users\venta\source\repos\FormatoExcell1\FormatoExcell1\obj\Debug\FormatoExcell1.exe
+C:\Users\venta\source\repos\FormatoExcell1\FormatoExcell1\obj\Debug\FormatoExcell1.pdb
